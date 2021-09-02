@@ -3,8 +3,8 @@
         "type": "New",
         "actions": {
             "folders": [
-                "cplg", 
-                "Maxwell", 
+                "cplg",
+                "Maxwell",
                 "Fluent/Animations",
                 "Fluent/Animations/Jmag-XY",
                 "Fluent/Animations/Jmag-YZ",
@@ -18,7 +18,7 @@
                 "Fluent/Case",
                 "Fluent/Reports",
                 "Fluent/Results",
-                "Fluent/Videos",
+                "Fluent/Videos"
             ],
             "files": [
                 {
