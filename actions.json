@@ -1,0 +1,31 @@
+[
+    {
+        "type": "New",
+        "actions": {
+            "folders": [
+                "cplg", 
+                "Maxwell", 
+                "Fluent/Animations",
+                "Fluent/Animations/Jmag-XY",
+                "Fluent/Animations/Jmag-YZ",
+                "Fluent/Animations/Jmag-ZX",
+                "Fluent/Animations/Bmag-XY",
+                "Fluent/Animations/Bmag-YZ",
+                "Fluent/Animations/Bmag-ZX",
+                "Fluent/Animations/Temperatura-XY",
+                "Fluent/Animations/Temperatura-YZ",
+                "Fluent/Animations/Temperatura-ZX",
+                "Fluent/Case",
+                "Fluent/Reports",
+                "Fluent/Results",
+                "Fluent/Videos",
+            ],
+            "files": [
+                {
+                    "from": "https://github.com/rodolfoplondero/mestrado-codes/blob/main/lib/Clear_Animations.bat",
+                    "to": "Fluent/Animations"
+                }
+            ]
+        }
+    }
+]
