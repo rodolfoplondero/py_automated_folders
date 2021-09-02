@@ -1,6 +1,6 @@
 [
     {
-        "type": "New",
+        "type": "Nova Simulacao",
         "actions": {
             "folders": [
                 "cplg",
@@ -15,10 +15,16 @@
                 "Fluent/Animations/Temperatura-XY",
                 "Fluent/Animations/Temperatura-YZ",
                 "Fluent/Animations/Temperatura-ZX",
-                "Fluent/Case",
                 "Fluent/Reports",
                 "Fluent/Results",
-                "Fluent/Videos"
+                "Fluent/Videos",
+                "Fluent/Case",
+                "Fluent/Case/comandos",
+                "Fluent/Case/libac",
+                "Fluent/Case/libair",
+                "Fluent/Case/libudf",
+                "Fluent/Case/setups",
+                "Fluent/Case/udf"
             ],
             "files": [
                 {
